@@ -1,0 +1,27 @@
+body{
+    width: 960px;
+    margin: 0px auto;
+    font-family: arial;
+}
+
+
+img{
+    width: 200px;
+    border-radius: 100px;
+    margin-left: 280px;
+    
+}
+.name{
+    color: lightcoral;
+}
+.first-part p{
+  color: gray;
+
+}
+.btn{
+    text-decoration: none;
+    background-color: indianred;
+    color:white;
+    padding: 5px 12px;
+    border-radius: 5px;
+}
