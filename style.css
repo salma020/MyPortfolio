@@ -21,7 +21,20 @@ img{
 .btn{
     text-decoration: none;
     background-color: indianred;
+    background-image: linear-gradient(180deg,rgb(245, 158, 158),tomato);
     color:white;
     padding: 5px 12px;
     border-radius: 5px;
+}
+.experiance{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    border-radius: 10px;
+    padding: 5px;
+    padding-left: 10px;
+    float: left;
+    margin-right: 30px;
+}
+.experiance h2{
+    color: rgb(235, 135, 135);
 }
