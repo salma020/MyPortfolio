@@ -1,21 +1,42 @@
+@media only screen and (max-width: 600px) {
+
 body{
-    width: 960px;
-    margin: 0px auto;
-    font-family: arial;
+	background-color: lightblue;
+
+}
+.first-part1{
+	
+margin-left: -397px;
+}
+} 
+.main{
+    overflow: hidden;
 }
 
+body{
+    margin: 0px auto;
+    font-family: arial;
+  
+}
 
-img{
+.first-part1 img{
     width: 200px;
     border-radius: 100px;
-    margin-left: 280px;
+    margin-left: 500px;
     
+}
+section{
+    margin-left: 10px;
 }
 .name{
     color: lightcoral;
 }
+.first-part h2{
+    text-align:center ;
+}
 .first-part p{
   color: gray;
+  
 
 }
 .btn{
@@ -42,7 +63,7 @@ img{
 .experiance h2{
     color: rgb(235, 135, 135);
 }
-.ftr{
-    text-align: center;
 
+footer{
+    text-align: center;
 }
